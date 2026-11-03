@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mumo22555-sketch.github.io/manutech-website/sitemap.xml
